@@ -1,0 +1,60 @@
+/* Add filters: https://www.w3schools.com/cssref/css3_pr_filter.asp */
+/* Make your own favicon: https://favicon.io/ */
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  background-color: black;
+}
+
+/* build your layout */
+.left {
+  height: 100%;
+  width: 75%;
+  display: block;
+  background-color: #c27ba0ff;
+}
+.right {
+  height: 100%;
+  width: 25%;
+  display: block;
+  background-color: purple;
+}
+.blue {
+  background-color: blue;
+}
+.burgundy {
+  background-color: #800020;
+}
+.cornflower {
+  background-color: cornflowerblue;
+}
+.lime {
+  background-color: lime;
+}
+.orange {
+  background-color: orangered;
+}
+.turquoise {
+  background-color: turquoise;
+}
+.top {
+  height: 15%;
+  width: 100%;
+}
+.middle {
+  height: 80%;
+  width: 100%;
+}
+.bottom {
+  height: 10%;
+  width: 100%;
+}
+
+/* want to make something happen when you hover?
+img:hover {
+  cursor: pointer;
+}
+*/
